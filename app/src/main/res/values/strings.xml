@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SECDigitalDiary</string>
+
+    <string name="option1">SEC Website</string>
+    <string name="option2">Teachers Info</string>
+    <string name="option3">Notes</string>
+    <string name="option4">Result</string>
+</resources>
